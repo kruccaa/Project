@@ -1,1 +1,11 @@
-
+h1{
+    color: #7a93ef;
+    background-color: rgb(66, 202, 229);
+    border: none;
+    width: 150px;
+    padding: 20px;
+    margin: auto;
+    font-size: 26px;
+    border-radius: 30px;
+    text-align: center;
+}
